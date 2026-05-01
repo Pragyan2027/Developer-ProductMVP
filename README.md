@@ -116,7 +116,7 @@ Runs on: `http://localhost:5173`
 
 ##  Demo
 
-(Add your video link here)
+[!Screenshot 2026-05-01 113540.png]
 
 ---
 
