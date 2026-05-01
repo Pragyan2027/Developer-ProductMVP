@@ -120,8 +120,7 @@ Runs on: `http://localhost:5173`
 
 ---
 
-##  Final Note
+##  Miro Board
 
-This project focuses on **clarity of problem-solving and product thinking**, not infrastructure complexity.
-It demonstrates how raw engineering metrics can be transformed into meaningful decisions.
-
+![Board](Miro.jpg)
+# LINK : https://miro.com/app/board/uXjVHZ1zqCE=/?share_link_id=801672612934
