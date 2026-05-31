@@ -114,6 +114,11 @@ Runs on: `http://localhost:5173`
 
 ---
 
+## Architecture
+![Flow](Architect.jpg)
+
+---
+
 ##  Demo
 
 ![Server](server.png)
